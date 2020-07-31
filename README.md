@@ -31,8 +31,8 @@ You can learn more about Donito by visiting [The Donito Platform Website](https:
 
 ## Technical details
 
-**Network Port** 19901   
-**Default RPC Port** 19902  
+**Network Port** 15666  
+**Default RPC Port** 15667  
 **Minimum stake input age** 12 hours  
 **Maximum stake input age** 30 days  
 
